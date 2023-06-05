@@ -1,0 +1,1 @@
+E:\Projects\Python\Steam-Checker\Steam-Check.py

@@ -1,0 +1,55 @@
+1639516820625	geckodriver	INFO	Listening on 127.0.0.1:52019
+1639516823652	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileSj6DqY"
+1639516824518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileSj6DqY\\search.json.mozlz4", (void 0)))
+1639516827275	Marionette	INFO	Listening on port 52062
+1639516827412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/promo/stickers.js?v=GfA42_x2_aub&l=english&_cdn=cloudflare, line 93: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 96: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 180: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 264: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 96: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 180: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7hRgYcyQmUrz&l=english&_cdn=cloudflare, line 264: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7HJCogiYX9G5&l=english&_cdn=cloudflare, line 96: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7HJCogiYX9G5&l=english&_cdn=cloudflare, line 180: unreachable code after return statement
+JavaScript warning: https://community.cloudflare.steamstatic.com/public/javascript/applications/community/libraries.js?v=7HJCogiYX9G5&l=english&_cdn=cloudflare, line 264: unreachable code after return statement
+1639552545828	Marionette	INFO	Stopped listening on port 52062
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639760041642	geckodriver	INFO	Listening on 127.0.0.1:54857
+1639760044679	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileBvScIf"
+1639760045097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileBvScIf\\search.json.mozlz4", (void 0)))
+1639760047234	Marionette	INFO	Listening on port 54866
+1639760047397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639760058168	Marionette	INFO	Stopped listening on port 54866
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639783072472	geckodriver	INFO	Listening on 127.0.0.1:60630
+1639783075509	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileautwL0"
+1639783075889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Izz\\AppData\\Local\\Temp\\rust_mozprofileautwL0\\search.json.mozlz4", (void 0)))
+1639783078188	Marionette	INFO	Listening on port 60639
+1639783078690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/promo/stickers.js?v=upl9NJ5D2xkP&l=english, line 93: unreachable code after return statement
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 96: unreachable code after return statement
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 180: unreachable code after return statement
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 264: unreachable code after return statement
+JavaScript error: https://community.akamai.steamstatic.com/public/javascript/applications/community/manifest.js?v=CpS9qgDIOQnz&l=english, line 15: ChunkLoadError: Loading chunk 3 failed.
+(error: https://community.akamai.steamstatic.com/public/javascript/applications/community/broadcasts~communityfaqs~conference~events~profile.js?contenthash=b9529076830c9dc66c6d)
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 96: unreachable code after return statement
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 180: unreachable code after return statement
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/applications/community/libraries.js?v=b1kAMgejkzEG&l=english, line 264: unreachable code after return statement
+1639783150146	Marionette	INFO	Stopped listening on port 60639
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1685948814632	geckodriver	INFO	Listening on 127.0.0.1:60437
