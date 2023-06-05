@@ -1,0 +1,11 @@
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\bin\Debug\netcoreapp2.1\Class_Thing.deps.json
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\bin\Debug\netcoreapp2.1\Class_Thing.runtimeconfig.json
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\bin\Debug\netcoreapp2.1\Class_Thing.runtimeconfig.dev.json
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\bin\Debug\netcoreapp2.1\Class_Thing.dll
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\bin\Debug\netcoreapp2.1\Class_Thing.pdb
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.AssemblyInfo.cs
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.dll
+E:\Projects\C#\Exercise\Class_Thing\Class_Thing\obj\Debug\netcoreapp2.1\Class_Thing.pdb

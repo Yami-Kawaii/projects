@@ -1,0 +1,11 @@
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.AssemblyInfo.cs
+E:\Projects\C#\Exercise\for2\for2\bin\Debug\netcoreapp2.1\for2.deps.json
+E:\Projects\C#\Exercise\for2\for2\bin\Debug\netcoreapp2.1\for2.runtimeconfig.json
+E:\Projects\C#\Exercise\for2\for2\bin\Debug\netcoreapp2.1\for2.runtimeconfig.dev.json
+E:\Projects\C#\Exercise\for2\for2\bin\Debug\netcoreapp2.1\for2.dll
+E:\Projects\C#\Exercise\for2\for2\bin\Debug\netcoreapp2.1\for2.pdb
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.dll
+E:\Projects\C#\Exercise\for2\for2\obj\Debug\netcoreapp2.1\for2.pdb

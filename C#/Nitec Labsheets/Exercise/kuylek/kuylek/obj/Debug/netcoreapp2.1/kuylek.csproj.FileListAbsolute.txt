@@ -1,0 +1,11 @@
+E:\Projects\C#\Exercise\kuylek\kuylek\bin\Debug\netcoreapp2.1\kuylek.deps.json
+E:\Projects\C#\Exercise\kuylek\kuylek\bin\Debug\netcoreapp2.1\kuylek.runtimeconfig.json
+E:\Projects\C#\Exercise\kuylek\kuylek\bin\Debug\netcoreapp2.1\kuylek.runtimeconfig.dev.json
+E:\Projects\C#\Exercise\kuylek\kuylek\bin\Debug\netcoreapp2.1\kuylek.dll
+E:\Projects\C#\Exercise\kuylek\kuylek\bin\Debug\netcoreapp2.1\kuylek.pdb
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.AssemblyInfo.cs
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.dll
+E:\Projects\C#\Exercise\kuylek\kuylek\obj\Debug\netcoreapp2.1\kuylek.pdb

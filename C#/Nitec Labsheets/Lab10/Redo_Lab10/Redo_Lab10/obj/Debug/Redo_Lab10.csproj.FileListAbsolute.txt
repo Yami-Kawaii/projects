@@ -1,0 +1,10 @@
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\bin\Debug\Redo_Lab10.exe.config
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\bin\Debug\Redo_Lab10.exe
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\bin\Debug\Redo_Lab10.pdb
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.csprojAssemblyReference.cache
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.formDataEntry.resources
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.Properties.Resources.resources
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.csproj.GenerateResource.cache
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.exe
+E:\Projects\C#\Lab10\Redo_Lab10\Redo_Lab10\obj\Debug\Redo_Lab10.pdb

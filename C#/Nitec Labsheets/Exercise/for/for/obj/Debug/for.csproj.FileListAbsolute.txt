@@ -1,0 +1,7 @@
+E:\Projects\C#\Exercise\for\for\bin\Debug\@for.exe.config
+E:\Projects\C#\Exercise\for\for\bin\Debug\@for.exe
+E:\Projects\C#\Exercise\for\for\bin\Debug\@for.pdb
+E:\Projects\C#\Exercise\for\for\obj\Debug\for.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\for\for\obj\Debug\@for.exe
+E:\Projects\C#\Exercise\for\for\obj\Debug\@for.pdb

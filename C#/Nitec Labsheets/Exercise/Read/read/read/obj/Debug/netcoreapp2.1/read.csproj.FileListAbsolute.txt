@@ -1,0 +1,10 @@
+E:\Projects\C#\Exercise\Read\read\read\bin\Debug\netcoreapp2.1\read.deps.json
+E:\Projects\C#\Exercise\Read\read\read\bin\Debug\netcoreapp2.1\read.runtimeconfig.json
+E:\Projects\C#\Exercise\Read\read\read\bin\Debug\netcoreapp2.1\read.runtimeconfig.dev.json
+E:\Projects\C#\Exercise\Read\read\read\bin\Debug\netcoreapp2.1\read.dll
+E:\Projects\C#\Exercise\Read\read\read\bin\Debug\netcoreapp2.1\read.pdb
+E:\Projects\C#\Exercise\Read\read\read\obj\Debug\netcoreapp2.1\read.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\Read\read\read\obj\Debug\netcoreapp2.1\read.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise\Read\read\read\obj\Debug\netcoreapp2.1\read.AssemblyInfo.cs
+E:\Projects\C#\Exercise\Read\read\read\obj\Debug\netcoreapp2.1\read.dll
+E:\Projects\C#\Exercise\Read\read\read\obj\Debug\netcoreapp2.1\read.pdb

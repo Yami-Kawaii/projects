@@ -1,0 +1,14 @@
+E:\Projects\C#\fool\fool\fool\bin\Debug\fool.exe.config
+E:\Projects\C#\fool\fool\fool\bin\Debug\fool.exe
+E:\Projects\C#\fool\fool\fool\bin\Debug\fool.pdb
+E:\Projects\C#\fool\fool\fool\obj\Debug\fool.csprojAssemblyReference.cache
+E:\Projects\C#\fool\fool\fool\obj\Debug\fool.csproj.CoreCompileInputs.cache
+E:\Projects\C#\fool\fool\fool\obj\Debug\fool.exe
+E:\Projects\C#\fool\fool\fool\obj\Debug\fool.pdb
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\bin\Debug\fool.exe.config
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\bin\Debug\fool.exe
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\bin\Debug\fool.pdb
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\obj\Debug\fool.csprojAssemblyReference.cache
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\obj\Debug\fool.csproj.CoreCompileInputs.cache
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\obj\Debug\fool.exe
+D:\Users\65936\Desktop\bak\Projects\C#\fool\fool\fool\obj\Debug\fool.pdb

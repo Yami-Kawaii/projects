@@ -1,0 +1,11 @@
+E:\Projects\C#\Exercise\Raining\Raining\Raining\bin\Debug\netcoreapp2.1\Raining.deps.json
+E:\Projects\C#\Exercise\Raining\Raining\Raining\bin\Debug\netcoreapp2.1\Raining.runtimeconfig.json
+E:\Projects\C#\Exercise\Raining\Raining\Raining\bin\Debug\netcoreapp2.1\Raining.runtimeconfig.dev.json
+E:\Projects\C#\Exercise\Raining\Raining\Raining\bin\Debug\netcoreapp2.1\Raining.dll
+E:\Projects\C#\Exercise\Raining\Raining\Raining\bin\Debug\netcoreapp2.1\Raining.pdb
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.AssemblyInfoInputs.cache
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.AssemblyInfo.cs
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.dll
+E:\Projects\C#\Exercise\Raining\Raining\Raining\obj\Debug\netcoreapp2.1\Raining.pdb

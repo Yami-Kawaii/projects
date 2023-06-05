@@ -1,0 +1,11 @@
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\bin\Debug\Database.mdf
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\bin\Debug\Database_log.ldf
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\bin\Debug\dBSQL.exe.config
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\bin\Debug\dBSQL.exe
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\bin\Debug\dBSQL.pdb
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.csprojAssemblyReference.cache
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.Properties.Resources.resources
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.csproj.GenerateResource.cache
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.csproj.CoreCompileInputs.cache
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.exe
+D:\Users\65936\Desktop\bak\Projects\C#\dBSQL\dBSQL\obj\Debug\dBSQL.pdb

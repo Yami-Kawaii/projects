@@ -1,0 +1,7 @@
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\bin\Debug\Exercise_D.exe.config
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\bin\Debug\Exercise_D.exe
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\bin\Debug\Exercise_D.pdb
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\obj\Debug\Exercise_D.csprojAssemblyReference.cache
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\obj\Debug\Exercise_D.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\obj\Debug\Exercise_D.exe
+E:\Projects\C#\Lab3\Exercise_D\Exercise_D\obj\Debug\Exercise_D.pdb

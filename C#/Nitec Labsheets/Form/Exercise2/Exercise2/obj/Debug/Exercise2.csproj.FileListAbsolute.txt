@@ -1,0 +1,10 @@
+E:\Projects\C#\Form\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+E:\Projects\C#\Form\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+E:\Projects\C#\Form\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+E:\Projects\C#\Form\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

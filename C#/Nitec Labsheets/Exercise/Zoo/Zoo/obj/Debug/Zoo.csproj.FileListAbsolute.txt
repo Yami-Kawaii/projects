@@ -1,0 +1,10 @@
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.Form1.resources
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\Zoo\Zoo\bin\Debug\Zoo.exe.config
+E:\Projects\C#\Exercise\Zoo\Zoo\bin\Debug\Zoo.exe
+E:\Projects\C#\Exercise\Zoo\Zoo\bin\Debug\Zoo.pdb
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.exe
+E:\Projects\C#\Exercise\Zoo\Zoo\obj\Debug\Zoo.pdb

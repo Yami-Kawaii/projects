@@ -1,0 +1,10 @@
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\bin\Debug\ruguo.exe.config
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\bin\Debug\ruguo.exe
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\bin\Debug\ruguo.pdb
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.Form1.resources
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.Properties.Resources.resources
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.csproj.GenerateResource.cache
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.exe
+E:\Projects\C#\Exercise\Yes\ruguo\ruguo\obj\Debug\ruguo.pdb

@@ -1,0 +1,7 @@
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\bin\Debug\RoddyBox4.exe.config
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\bin\Debug\RoddyBox4.exe
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\bin\Debug\RoddyBox4.pdb
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\obj\Debug\RoddyBox4.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\obj\Debug\RoddyBox4.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\obj\Debug\RoddyBox4.exe
+E:\Projects\C#\Exercise\RoddyBox4\RoddyBox4\obj\Debug\RoddyBox4.pdb

@@ -1,0 +1,10 @@
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\bin\Debug\AscendingOrd.exe.config
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\bin\Debug\AscendingOrd.exe
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\bin\Debug\AscendingOrd.pdb
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.csprojAssemblyReference.cache
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.Form1.resources
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.Properties.Resources.resources
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.csproj.GenerateResource.cache
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.exe
+E:\Projects\C#\Exercise\AscendingOrd\AscendingOrd\obj\Debug\AscendingOrd.pdb

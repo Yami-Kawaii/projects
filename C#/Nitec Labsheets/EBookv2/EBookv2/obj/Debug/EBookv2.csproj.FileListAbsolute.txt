@@ -1,0 +1,10 @@
+E:\Projects\C#\EBookv2\EBookv2\bin\Debug\EBookv2.exe.config
+E:\Projects\C#\EBookv2\EBookv2\bin\Debug\EBookv2.exe
+E:\Projects\C#\EBookv2\EBookv2\bin\Debug\EBookv2.pdb
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.csprojAssemblyReference.cache
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.Form1.resources
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.Properties.Resources.resources
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.csproj.GenerateResource.cache
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.csproj.CoreCompileInputs.cache
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.exe
+E:\Projects\C#\EBookv2\EBookv2\obj\Debug\EBookv2.pdb

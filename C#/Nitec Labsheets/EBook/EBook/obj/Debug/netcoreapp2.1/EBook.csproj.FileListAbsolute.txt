@@ -1,0 +1,11 @@
+E:\Projects\C#\EBook\EBook\bin\Debug\netcoreapp2.1\EBook.deps.json
+E:\Projects\C#\EBook\EBook\bin\Debug\netcoreapp2.1\EBook.runtimeconfig.json
+E:\Projects\C#\EBook\EBook\bin\Debug\netcoreapp2.1\EBook.runtimeconfig.dev.json
+E:\Projects\C#\EBook\EBook\bin\Debug\netcoreapp2.1\EBook.dll
+E:\Projects\C#\EBook\EBook\bin\Debug\netcoreapp2.1\EBook.pdb
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.csprojAssemblyReference.cache
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.csproj.CoreCompileInputs.cache
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.AssemblyInfoInputs.cache
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.AssemblyInfo.cs
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.dll
+E:\Projects\C#\EBook\EBook\obj\Debug\netcoreapp2.1\EBook.pdb

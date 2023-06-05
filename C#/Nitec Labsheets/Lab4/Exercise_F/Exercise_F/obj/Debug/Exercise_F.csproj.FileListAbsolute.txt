@@ -1,0 +1,6 @@
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\bin\Debug\Exercise_F.exe.config
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\bin\Debug\Exercise_F.exe
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\bin\Debug\Exercise_F.pdb
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\obj\Debug\Exercise_F.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\obj\Debug\Exercise_F.exe
+E:\Projects\C#\Lab4\Exercise_F\Exercise_F\obj\Debug\Exercise_F.pdb

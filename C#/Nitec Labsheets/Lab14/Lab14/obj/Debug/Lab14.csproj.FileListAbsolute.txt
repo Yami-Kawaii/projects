@@ -1,0 +1,12 @@
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\bin\Debug\Database1.mdf
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\bin\Debug\Database1_log.ldf
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\Users\65936\Desktop\bak\Projects\C#\Lab14\Lab14\obj\Debug\Lab14.pdb
